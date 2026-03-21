@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Codeflix/Codeflix.csproj" />
+  <Project Path="CodeflixTests/CodeflixTests.csproj" />
 </Solution>
