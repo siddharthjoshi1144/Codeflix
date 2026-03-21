@@ -1,0 +1,16 @@
+CREATE DATABASE CodeflixDB;
+GO
+
+USE CodeflixDB;
+GO
+
+CREATE TABLE MediaItems (
+    Id INT PRIMARY KEY,
+    Title NVARCHAR(200) NOT NULL UNIQUE,
+    Genre NVARCHAR(100) NOT NULL,
+    ReleaseYear INT NOT NULL,
+    Type NVARCHAR(50) NOT NULL,
+    Rating FLOAT NOT NULL,
+    Director NVARCHAR(200) NOT NULL
+);
+GO
