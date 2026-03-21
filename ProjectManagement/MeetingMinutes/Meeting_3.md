@@ -1,25 +1,22 @@
 # Meeting Minutes – Meeting 3 (Project Completion)
 
-## 📅 Date:
+## Date:
 Day 7 (Final Day)
 
-## 👥 Attendees:
+## Attendees:
 - Siddharth Joshi (Leader)
 - Zaqwan Abdurrasid Sidat (Secretary)
 - Arvind Choudhary
 - Vansh Roneshkumar Patel
 - Om Sarvaiya
 
----
-
-## 📝 Agenda:
+## Agenda:
 - Final project review
 - Confirm completion of all components
 - Prepare for submission
 
----
 
-## 💬 Discussion:
+## Discussion:
 - All core functionalities (add, search, delete, display) are working correctly
 - Binary Search Tree implementation is complete and tested
 - SQL database integration is fully functional
@@ -27,16 +24,14 @@ Day 7 (Final Day)
 - Documentation and project management files prepared
 - Demo video recorded and reviewed
 
----
 
-## ✅ Decisions Made:
+## Decisions Made:
 - Project is ready for final submission
 - No further changes required
 - Repository will be finalized and submitted
 
----
 
-## 📌 Final Deliverables Confirmed:
+## Final Deliverables Confirmed:
 - Working C# application
 - Binary Search Tree implementation
 - SQL database and script
@@ -46,14 +41,12 @@ Day 7 (Final Day)
 - Demo video
 - Project report
 
----
 
-## 📊 Reflection:
+## Reflection:
 - Team successfully completed the project within 1 week
 - Effective communication and task distribution helped maintain progress
 - Minor issues were resolved quickly through collaboration
 
----
 
-## 📅 Project Status:
-✅ Completed and Ready for Submission
+## Project Status:
+Completed and Ready for Submission
